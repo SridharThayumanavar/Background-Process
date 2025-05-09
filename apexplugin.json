@@ -11,20 +11,15 @@
         "PL/SQL",
         "AJAX"
     ],
-    "homepage": "https://github.com/SridharThayumanavar/Background-Process-Notification_All",
     "bugs": {
         "url": "https://github.com/SridharThayumanavar/Background-Process-Notification_All/issues",
         "email": "sridhar30_12@hotmail.com"
     },
     "license": "MIT",
-    "commercial": "No",
-    "commercially_supported": "Yes",
     "author": {
         "name": "Sridhar Thayumanavar",
-        "company": "",
         "email": "sridhar30_12@hotmail.com",
-        "url": "",
-        "twitter": ""
+        "url": "https://www.linkedin.com/in/sridhar-thayumanavar-b19768181/",
     },
     "repository": {
         "type": "git",
