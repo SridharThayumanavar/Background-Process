@@ -1,0 +1,49 @@
+{
+    "name": "Common Framework for All Background Process to Notify Process Completion to the Users",
+    "version": "1.2.0",
+    "description": "To indicate the users about the completion of the long running background processes irrespective of the pages through notification.",
+    "keywords": [
+        "APEX",
+        "Dynamic Action",
+        "Oracle APEX",
+        "Background Process",
+        "Notifiaction",
+        "PL/SQL",
+        "AJAX"
+    ],
+    "homepage": "https://github.com/SridharThayumanavar/Background-Process",
+    "bugs": {
+        "url": "https://github.com/SridharThayumanavar/Background-Process/issues",
+        "email": "sridhar30_12@hotmail.com"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "commercially_supported": "Yes",
+    "author": {
+        "name": "Sridhar Thayumanavar",
+        "company": "",
+        "email": "sridhar30_12@hotmail.com",
+        "url": "",
+        "twitter": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SridharThayumanavar/Background-Process"
+    },
+    "oracle": {
+        "versions": [
+            "18c,19c,21c,23c,23ai"
+        ],
+        "apex": {
+            "versions": [
+                "24.1, 24.2"
+            ],
+            "plugin": {
+                "internalName": "BACKGROUND.PROCESS.COMPLETION.STATUS.INN",
+                "type": "dynamic action",
+                "demo": "https://apex.oracle.com/pls/apex/r/digital_bid_suite/bg-process/home",
+                "previewImage": "https://github.com/SridharThayumanavar/Background-Process/blob/main/Background%20Process%20Notification.gif"
+            }
+        }
+    }
+}
