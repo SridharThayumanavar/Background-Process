@@ -1,13 +1,11 @@
-Common Framework for All Background Process to Notify Process Completion to the Users.
-
 Overview 
 To indicate the users about the completion of the long running background processes irrespective of the pages through notification. 
 
 Features 
-•	Users able to know the background process status through notifications.
-•	Common framework – Functionality implemented in Global page at one time, and it should be applicable to the entire application.
-•	More than one background process statuses to be captured through notification and no need to stay in the page. 
-•	All the status of the background process to be captured in notifications. For example, failed, terminated.
+1.	Users able to know the background process status through notifications.
+2.	Common framework – Functionality implemented in Global page at one time, and it should be applicable to the entire application.
+3.	More than one background process statuses to be captured through notification and no need to stay in the page. 
+4.	All the status of the background process to be captured in notifications. For example, failed, terminated.
 Custom Attributes 
 S.No	Attribute Name	Functionality	Values
 1	Success Message
