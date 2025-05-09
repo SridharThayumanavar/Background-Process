@@ -17,7 +17,7 @@ To indicate the users about the completion of the long running background proces
 
 # Dynamic Action on Page Load 
 
-![]()
+![](https://github.com/SridharThayumanavar/Background-Process/blob/main/Plugin-Backend_screenshot.jpg)
 
 1.	To check background process only for one page then dynamic action to be created on that page one time only. 
 2.	To check background process for entire application then dynamic action to be created on global page.
