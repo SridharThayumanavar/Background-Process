@@ -27,7 +27,7 @@
     },
     "oracle": {
         "versions": [
-            "23c,23ai"
+            "23c, 23ai"
         ],
         "apex": {
             "versions": [
