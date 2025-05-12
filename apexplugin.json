@@ -37,7 +37,7 @@
                 "internalName": "BACKGROUND.PROCESS.COMPLETION.STATUS.INN",
                 "type": "dynamic action",
                 "demo": "https://apex.oracle.com/pls/apex/r/digital_bid_suite/bg-process/home",
-                "previewImage": "https://github.com/SridharThayumanavar/Background-Process-Notification_All/blob/main/Background%20Process%20Notification.gif"
+                "previewImage": "https://raw.githubusercontent.com/SridharThayumanavar/Background-Process-Notification_All/refs/heads/main/Preview.png"
             }
         }
     }
